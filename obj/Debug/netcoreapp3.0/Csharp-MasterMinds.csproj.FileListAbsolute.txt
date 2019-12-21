@@ -1,0 +1,11 @@
+C:\Users\Veritas\Desktop\Csharp-MasterMinds\obj\Debug\netcoreapp3.0\Csharp-MasterMinds.csprojAssemblyReference.cache
+C:\Users\Veritas\Desktop\Csharp-MasterMinds\obj\Debug\netcoreapp3.0\Csharp-MasterMinds.AssemblyInfoInputs.cache
+C:\Users\Veritas\Desktop\Csharp-MasterMinds\obj\Debug\netcoreapp3.0\Csharp-MasterMinds.AssemblyInfo.cs
+C:\Users\Veritas\Desktop\Csharp-MasterMinds\bin\Debug\netcoreapp3.0\Csharp-MasterMinds.exe
+C:\Users\Veritas\Desktop\Csharp-MasterMinds\bin\Debug\netcoreapp3.0\Csharp-MasterMinds.deps.json
+C:\Users\Veritas\Desktop\Csharp-MasterMinds\bin\Debug\netcoreapp3.0\Csharp-MasterMinds.runtimeconfig.json
+C:\Users\Veritas\Desktop\Csharp-MasterMinds\bin\Debug\netcoreapp3.0\Csharp-MasterMinds.runtimeconfig.dev.json
+C:\Users\Veritas\Desktop\Csharp-MasterMinds\bin\Debug\netcoreapp3.0\Csharp-MasterMinds.dll
+C:\Users\Veritas\Desktop\Csharp-MasterMinds\bin\Debug\netcoreapp3.0\Csharp-MasterMinds.pdb
+C:\Users\Veritas\Desktop\Csharp-MasterMinds\obj\Debug\netcoreapp3.0\Csharp-MasterMinds.dll
+C:\Users\Veritas\Desktop\Csharp-MasterMinds\obj\Debug\netcoreapp3.0\Csharp-MasterMinds.pdb
